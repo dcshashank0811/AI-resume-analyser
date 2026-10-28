@@ -1,0 +1,7 @@
+role,required_skills
+Data Analyst,Python;SQL;Excel;Pandas;Power BI;Statistics;Data Visualization
+Machine Learning Engineer,Python;Machine Learning;Scikit-learn;FastAPI;Docker;MLflow;Cloud Deployment
+AI Engineer,Python;Deep Learning;LLM;RAG;APIs;PyTorch;Docker
+NLP Engineer,Python;NLP;Transformers;Hugging Face;PyTorch;Deep Learning
+Computer Vision Engineer,Python;OpenCV;CNN;YOLO;Deep Learning;PyTorch
+Python Developer,Python;Flask;FastAPI;SQL;Git;APIs;Docker

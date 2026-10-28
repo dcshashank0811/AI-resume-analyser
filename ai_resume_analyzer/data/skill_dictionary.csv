@@ -1,0 +1,36 @@
+skill,category,aliases
+Python,Programming,python3
+SQL,Databases,mysql|postgresql|sqlite
+Excel,Tools,ms excel|microsoft excel
+Power BI,Tools,powerbi
+Tableau,Tools,
+Pandas,Data,
+NumPy,Data,
+Statistics,Data,
+Data Visualization,Data,matplotlib|seaborn|plotly
+Machine Learning,ML,ml
+Scikit-learn,ML,sklearn|scikit learn
+Deep Learning,ML,neural networks
+TensorFlow,ML,
+PyTorch,ML,
+NLP,ML,natural language processing
+Transformers,ML,bert|sentence transformers
+Hugging Face,ML,huggingface
+LLM,ML,large language models|gpt
+RAG,ML,retrieval augmented generation
+OpenCV,Computer Vision,
+CNN,Computer Vision,convolutional neural networks
+YOLO,Computer Vision,
+FastAPI,Backend,
+Flask,Backend,
+APIs,Backend,api|rest api
+Docker,DevOps,
+Git,Tools,github
+MLflow,MLOps,
+AWS,Cloud,amazon web services
+Azure,Cloud,
+Cloud Deployment,Cloud,gcp|google cloud|heroku|render
+Streamlit,Tools,
+Java,Programming,
+C++,Programming,
+JavaScript,Programming,js
